@@ -22,7 +22,7 @@ VenueVerse/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/VenueVerse.git
+git clone https://github.com/itsshrestha/VenueVerse.git
 cd VenueVerse
 ```
 

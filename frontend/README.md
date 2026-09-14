@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository (skip if already done for the backend)
-git clone https://github.com/<your-username>/VenueVerse.git
+git clone https://github.com/itsshrestha/VenueVerse.git
 cd VenueVerse/frontend
 
 # Install all dependencies
